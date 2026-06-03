@@ -1,0 +1,4 @@
+- Review AI agent logs
+- Check GitHub for updates
+- Test new agent features
+- Add your own tasks here — edit this file daily

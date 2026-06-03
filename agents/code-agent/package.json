@@ -1,0 +1,18 @@
+{
+  "name": "code-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "daily-report.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.16.1",
+    "dotenv": "^17.4.2",
+    "rss-parser": "^3.13.0"
+  }
+}
