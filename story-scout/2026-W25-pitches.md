@@ -5,18 +5,18 @@
 **Threads explored this cycle:** see pitches below
 
 ---
-## Pitch 1 — The Missing Artisan
+## Pitch 1 — "The Art of Gaps"
 
-**Story Bible thread:** Part I — Pukkai's investigation into the world's competence
-**Premise:** Pukkai notices a series of small, seemingly unrelated events in Dharavi: an artisan's tools go missing from her workshop, a family's traditional garments are altered without their permission, and a young girl is seen being paid less than minimum wage for her labor. As she digs deeper, Pukkai uncovers evidence that the world's efficiency algorithms may be hiding a more sinister truth.
-**Key scenes:**
-- Pukkai visits the Dharavi artisan market to witness the tools going missing and meets Putum, who senses an upset in the artisan's aura.
-- Putum translates the artifact's hidden emotions into clear sentences, revealing an unexpected connection between the artisan and an abandoned plot for a new, supposedly "efficient" public housing project.
-- Pukkai attends a high-level meeting at a corporate tower overlooking Dharavi to confront the decision-makers about their lack of transparency.
+**Story Bible thread:** Pukkai's Character & Story Bible #Pukkai
+**Premise:** When a famous street artist from Mumbai's Colaba neighborhood goes missing, Pukkai notices that his murals seem to be changing on their own - the colors blending and shifting in ways that defy logic. Putum senses an undercurrent of unease in the artwork, but can't quite pinpoint what it is. As Pukkai investigates, she realizes that the artist's most recent mural was more than just a creation - it was a hidden key to unlocking a decades-old conspiracy.
+**Key scenes (3-5):**
+- Pukkai visits the Colaba Street Art Museum, where she meets with the curator and Putum detects a faint hum of anxiety in the air.
+- She follows a trail of subtle changes at various street art locations around Mumbai, with Putum alerting her to anomalies that seem like they shouldn't be there.
+- Pukkai tracks down a lead on an abandoned warehouse, where she finds evidence suggesting that the missing artist was onto something much bigger than just his next mural.
 
-**Mumbai location(s):** Dharavi
-**Why this fits the world:** It challenges the idea that the world is always competent and asks questions about the cost of efficiency, even in seemingly utopian societies.
-**Analogues referenced:** This story takes inspiration from investigative journalism and the social and economic realities faced by artists and marginalized communities in Mumbai.
+**Mumbai location(s):** Colaba Street Art Museum, Bandra-Worli Sea Link
+**Why this fits the world:** This mystery unfolds against the backdrop of Mumbai's thriving street art scene and its intricate network of hidden alleys and public spaces. It poses questions about the intersection of creativity and technology in a world where algorithms have largely taken over.
+**Analogues referenced:** Research on street art, surveillance capitalism, and the implications of AI-generated content.
 **Issue slot candidate:** Issue #3
 ---
 
